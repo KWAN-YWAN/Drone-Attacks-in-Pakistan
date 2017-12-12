@@ -5,7 +5,7 @@ There are 3 Jupyter Notebooks used in the project.
 2. Terrorism Database.ipynb - In this Notebook, we are analyzing the relationship between Drone Attacks and Terrorist Attacks
 3. Pakistan Suicide Bombings.ipynb - This Notebook only contains the Data Analysis part comprising of a few plots comparing Drone Attacks with the Suicide Bombings
 
-### Libraries required to run the Notebooks:
+### Libraries used:
 1. Folium (Plotting lattitude and longitude on a World Map)
 2. WordCloud (Generate picture with high-frequency words)
 3. Scikit-learn
